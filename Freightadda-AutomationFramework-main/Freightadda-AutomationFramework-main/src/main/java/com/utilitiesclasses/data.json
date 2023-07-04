@@ -1,0 +1,18 @@
+{"login":
+{
+    "username": "Adming",
+    "password": "Adming"
+    
+}
+
+}
+{"Airline":
+{
+    "name": "Indigo",
+    "iata": "ASD",
+    "icao": "ASE",
+    "alias": "",
+    "callsign":""
+}
+
+}
